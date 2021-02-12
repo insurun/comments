@@ -1,6 +1,6 @@
 ---
 name: UI Look & Feel
-about: Describe this issue template's purpose here.
+about: Suggest changes to enhance UI look & feel
 title: ''
 labels: UI
 assignees: ''
